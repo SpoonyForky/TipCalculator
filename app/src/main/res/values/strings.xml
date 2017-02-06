@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+
+    <string-array name="tipSpinArray">
+        <item>Shit service  10%</item>
+        <item>Average 15%</item>
+        <item>Good Service 20%</item>
+        <item>Pretty Darn Good 25%</item>
+        <item>30%</item>
+    </string-array>
+
+    <string-array name="peopleSpinArray">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+</resources>
